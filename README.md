@@ -1,4 +1,4 @@
-# AI-Powered Job Application and Interview Management System
+ Job Application and Interview Management System
 
 A Spring Boot REST API for a small job portal. This version preserves the existing User, Job and Application layers and adds JWT login, BCrypt password hashing, recruiter ownership checks and interview scheduling.
 
